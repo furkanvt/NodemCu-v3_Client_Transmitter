@@ -1,2 +1,2 @@
 # NodemCu-v3_Client_Transmitter
-Bitirme Projem NodemCu V3 Modül Kodları
+Bitirme Projem için Verici olarak programlanan NodemCu-v3 Modül Kodları
